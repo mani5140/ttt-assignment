@@ -1,6 +1,6 @@
 {
     "profile": {
-      "name": "John Doe",
+      "name": "Garapati Srimanikanta",
       "background" : "https://media.istockphoto.com/id/1494104649/photo/ai-chatbot-artificial-intelligence-digital-concept.jpg?s=1024x1024&w=is&k=20&c=FQZBVxbXjhgPzm-W-5Jo3O7x7OXLPugwXzTKEu6nV3w=",
       "pic" : "https://img.freepik.com/free-vector/handsome-man_1308-85984.jpg?w=740&t=st=1700422816~exp=1700423416~hmac=7e0d21125bbd65da9847382e99955a2be9eba502072633ac4db2cb399221c7bc",
       "followers": 500,
@@ -8,8 +8,8 @@
       "position" : "Co-founder & CEO at Ourkart website",
       "link" : "https://mani5140.github.io/Portfolio_Website/",
       "stars": 100,
-      "likes": 1000,
-      "views": 5000,
+      "likes": "10K",
+      "views": "50k",
       "hearts": 800
     },
     "posts": [

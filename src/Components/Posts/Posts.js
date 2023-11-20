@@ -10,7 +10,7 @@ const Posts = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("/data.json"); // Assuming the file is in the public folder
+        const response = await fetch("/data.json"); 
         const data = await response.json();
         setPosts(data.posts);
         setProfile(data.profile);
@@ -20,9 +20,8 @@ const Posts = () => {
     };
 
     fetchData();
-  }, []); // Empty dependency array ensures useEffect runs only once
+  }, []);
   const numberOfPosts = posts.length;
-  // Now you can use the 'posts' state variable in your component
 
   return (
     <div className="container-fluid" id="top">

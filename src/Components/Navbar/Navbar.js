@@ -16,13 +16,3 @@ function Navbar() {
   }
   
 export default Navbar;
-{/* <nav className="navbar navbar-light bg-dark">
-          <div className="row">
-          <div className="col-1" id="logo"><img src={logo} alt="logo"id="tiny"/></div>
-          <div className="col-7 text-start"><a className="nav-link text-light" href="#">STORIES</a></div>
-          <div className="col-4 text-end"><button type="button" className="btn btn-warning">Courses</button></div>
-          
-          </div>
-          
-
-        </nav> */}

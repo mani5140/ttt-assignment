@@ -1,5 +1,3 @@
-import back from "./back1.jpg";
-import pic from "./pic.jpeg";
 import React, { useEffect, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -17,11 +15,9 @@ function About() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        // Fetch the JSON file from the public folder
         const response = await fetch("/data.json");
         const data = await response.json();
 
-        // Set the profile and posts
         setProfile(data.profile);
       } catch (error) {
         console.error("Error", error);
