@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# React Profile Page Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple React.js application that showcases a responsive profile page. The profile data is hardcoded in a JSON file, and the project utilizes Bootstrap for styling and Font Awesome icons for additional visual elements.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Demo
 
-### `npm start`
+[View Demo](#) (Add a link to your live demo if available)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![React Profile Page](/screenshots/react-profile-page.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Responsive design for various screen sizes.
+- Bootstrap for styling components and layout.
+- Font Awesome icons for enhanced visual elements.
+- Hardcoded profile data in a JSON file.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+1. Clone the repository to your local machine:\
+git clone https://github.com/mani5140/ttt-assignment.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Navigate to the project directory:\
+   cd ttt-assignment
+   
+3. Install all required dependencies by simple running this command:\
+   npm install
+   
+5. Start the development server:\
+   npm start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technologies Used
+This project makes use of the following technologies and tools:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **React.js:** A JavaScript library for building user interfaces. It enables the creation of reusable UI components.
 
-### `npm run eject`
+- **Bootstrap:** A popular front-end framework for designing responsive and visually appealing web pages. Bootstrap provides a set of CSS and JavaScript components for building a responsive and mobile-first user interface.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Font Awesome Icons:** A comprehensive collection of icons that can be easily customized and styled using CSS. Font Awesome icons enhance the visual elements of the project.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **JSON:** The profile data is hardcoded in a JSON file, providing a simple and structured way to store and manage the data.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **npm:** The Node Package Manager is used for installing and managing project dependencies.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+These technologies work together to create a dynamic and responsive profile page, providing a seamless user experience across different devices and screen sizes.
+   
