@@ -1,0 +1,102 @@
+{
+    "profile": {
+      "name": "John Doe",
+      "background" : "https://media.istockphoto.com/id/1494104649/photo/ai-chatbot-artificial-intelligence-digital-concept.jpg?s=1024x1024&w=is&k=20&c=FQZBVxbXjhgPzm-W-5Jo3O7x7OXLPugwXzTKEu6nV3w=",
+      "pic" : "https://img.freepik.com/free-vector/handsome-man_1308-85984.jpg?w=740&t=st=1700422816~exp=1700423416~hmac=7e0d21125bbd65da9847382e99955a2be9eba502072633ac4db2cb399221c7bc",
+      "followers": 500,
+      "following": 200,
+      "position" : "Co-founder & CEO at Ourkart website",
+      "link" : "https://mani5140.github.io/Portfolio_Website/",
+      "stars": 100,
+      "likes": 1000,
+      "views": 5000,
+      "hearts": 800
+    },
+    "posts": [
+      {
+        "title": "Demystifying React Hooks",
+        "content": "React Hooks introduced in React 16.8 provide a way to use state and lifecycle features in functional components. Learn how to leverage useState, useEffect, and more for a cleaner React codebase.",
+        "date": "June 8",
+        "read_time": "10 min",
+        "views": 280
+      },
+      {
+        "title": "The Evolution of JavaScript: ES6 and Beyond",
+        "content": "Explore the significant features introduced in ECMAScript 6 (ES6) and the subsequent updates. From arrow functions to destructuring and async/await, understand how these enhancements improve JavaScript development.",
+        "date": "July 15",
+        "read_time": "14 min",
+        "views": 320
+      },
+      {
+        "title": "Cybersecurity Best Practices for Developers",
+        "content": "In an era of increasing cyber threats, developers play a crucial role in securing applications. This post covers best practices, including secure coding habits, regular updates, and implementing authentication and authorization mechanisms.",
+        "date": "August 3",
+        "read_time": "18 min",
+        "views": 420
+      },
+      {
+        "title": "Microservices Architecture: Design Principles and Challenges",
+        "content": "Microservices have gained popularity for building scalable and maintainable systems. Delve into the design principles of microservices and learn about common challenges such as service communication and data consistency.",
+        "date": "September 12",
+        "read_time": "20 min",
+        "views": 500
+      },
+      {
+        "title": "Building Progressive Web Apps with Service Workers",
+        "content": "Discover the world of Progressive Web Apps (PWAs) and how Service Workers enable offline capabilities, push notifications, and faster performance. Learn the key principles and tools for building PWAs.",
+        "date": "October 7",
+        "read_time": "12 min",
+        "views": 350
+      },
+      {
+        "title": "Introduction to Natural Language Processing (NLP)",
+        "content": "Natural Language Processing is a fascinating field that involves the interaction between computers and human language. Explore the basics of NLP, including tokenization, sentiment analysis, and language modeling.",
+        "date": "November 15",
+        "read_time": "16 min",
+        "views": 420
+      },
+      {
+        "title": "Serverless Computing: Beyond the Hype",
+        "content": "Dive into the world of serverless computing and understand how it can streamline development by abstracting infrastructure management. Explore serverless architecture, functions as a service (FaaS), and use cases.",
+        "date": "December 9",
+        "read_time": "14 min",
+        "views": 380
+      },
+      {
+        "title": "Augmented Reality: Bridging the Physical and Digital Worlds",
+        "content": "Explore the exciting realm of augmented reality (AR) and its applications in various industries. From AR gaming to enhancing user experiences, learn about the technologies driving this innovative field.",
+        "date": "January 18",
+        "read_time": "22 min",
+        "views": 550
+      },
+      {
+        "title": "Blockchain Technology: Beyond Cryptocurrencies",
+        "content": "Explore the underlying technology of blockchain and its applications beyond cryptocurrencies. Learn about smart contracts, decentralized applications (DApps), and the potential impact on various industries.",
+        "date": "February 22",
+        "read_time": "18 min",
+        "views": 480
+      },
+      {
+        "title": "Securing APIs: Best Practices for Developers",
+        "content": "As APIs play a crucial role in modern application development, understanding API security is paramount. This post covers authentication, authorization, encryption, and other best practices to secure your APIs.",
+        "date": "March 10",
+        "read_time": "15 min",
+        "views": 400
+      },
+      {
+        "title": "Quantum Computing: A Glimpse into the Future",
+        "content": "Quantum computing holds the promise of revolutionizing computation. Delve into the basics of quantum computing, quantum bits (qubits), and explore the potential applications that could reshape industries.",
+        "date": "April 5",
+        "read_time": "20 min",
+        "views": 600
+      },
+      {
+        "title": "Rust Programming Language: A Modern System Programming Language",
+        "content": "Discover the features and advantages of Rust, a systems programming language known for its focus on performance, memory safety, and concurrency. Learn how Rust is changing the landscape of low-level programming.",
+        "date": "May 14",
+        "read_time": "14 min",
+        "views": 350
+      }
+    ]
+  }
+  
