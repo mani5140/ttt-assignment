@@ -5,9 +5,8 @@ This project is a simple React.js application that showcases a responsive profil
 
 ## Demo
 
-[View Demo](#) (Add a link to your live demo if available)
+https://655baa79e738ae0a36ea0c03--stellar-smakager-cea4b1.netlify.app/ (Live now)
 
-![React Profile Page](/screenshots/react-profile-page.png)
 
 ## Features
 
@@ -43,5 +42,12 @@ This project makes use of the following technologies and tools:
 
 - **npm:** The Node Package Manager is used for installing and managing project dependencies.
 
+
 These technologies work together to create a dynamic and responsive profile page, providing a seamless user experience across different devices and screen sizes.
+
+## Preview of the website
    
+<img width="959" alt="Screenshot 2023-11-21 002320" src="https://github.com/mani5140/ttt-assignment/assets/94881070/2de71616-79f2-4a8b-871a-69a415eb6d0b">
+   
+<img width="960" alt="Screenshot 2023-11-21 002341" src="https://github.com/mani5140/ttt-assignment/assets/94881070/6813afa6-fa9f-4181-9964-03d68dcccdbb">
+
